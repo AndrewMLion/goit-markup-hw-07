@@ -861,6 +861,7 @@ svg {
   letter-spacing: 0.03em;
   color: #757575;
   padding-left: 8.5px;
+  cursor: pointer;
 }
 
 .checkbox__input {
