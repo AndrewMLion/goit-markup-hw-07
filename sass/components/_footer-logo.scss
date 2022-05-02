@@ -2,8 +2,16 @@
   display: inline-block;
 
   margin-bottom: 20px;
-}
 
-.studio {
+  color: getColor('primary-text-color');
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+.footer__web {
+  color: getColor('accent-color');
+}
+.footer__studio {
   color: getColor('background-color');
 }
