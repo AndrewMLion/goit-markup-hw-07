@@ -583,7 +583,7 @@ svg {
   margin-top: 20px;
 } */
 
-.subscribe-btn {
+/* .subscribe-btn {
   display: flex;
   align-items: center;
   text-align: center;
@@ -612,11 +612,11 @@ svg {
   top: 0;
   left: 0;
   margin-left: 10px;
-}
+} */
 
 /* BACKDROP */
 
-.backdrop {
+/* .backdrop {
   position: fixed;
   top: 0;
   left: 0;
@@ -627,14 +627,14 @@ svg {
   opacity: 1;
 
   transition: opacity var(--timing);
-}
+} */
 
-.backdrop.is-hidden {
+/* .backdrop.is-hidden {
   opacity: 0;
   pointer-events: none;
-}
+} */
 
-.modal {
+/* .modal {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -787,9 +787,9 @@ svg {
   letter-spacing: 0.01em;
 
   color: rgba(117, 117, 117, 0.5);
-}
+} */
 
-.checkbox {
+/* .checkbox {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -838,7 +838,7 @@ svg {
 
 .agreement {
   color: var(--accent-color);
-}
+} */
 
 .submit {
   display: flex;
