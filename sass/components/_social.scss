@@ -20,6 +20,8 @@
 
   transition: background-color getTiming('timing'), fill getTiming('timing');
 
+  cursor: pointer;
+
   &:hover {
     background-color: getColor('accent-color');
     fill: getColor('background-color');

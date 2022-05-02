@@ -78,10 +78,10 @@ svg {
   border-bottom: 1px solid #ececec;
 } */
 
-.hero,
+/* .hero,
 .footer {
   background-color: var(--header-and-footer-color);
-}
+} */
 
 .list {
   list-style: none;
@@ -442,7 +442,7 @@ svg {
 } */
 
 /* Clients */
-.clients {
+/* .clients {
   display: flex;
   padding-top: 94px;
   padding-bottom: 94px;
@@ -483,10 +483,10 @@ svg {
 
 .clients .link:hover .client {
   fill: var(--accent-color);
-}
+} */
 
 /* Footer */
-.footer {
+/* .footer {
   display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -496,9 +496,9 @@ svg {
 
 .footer .container {
   display: inline-flex;
-}
+} */
 
-.logo-footer {
+/* .logo-footer {
   display: inline-block;
 
   margin-bottom: 20px;
@@ -506,9 +506,9 @@ svg {
 
 .studio {
   color: var(--background-color);
-}
+} */
 
-.address {
+/* .address {
   display: flex;
 
   color: var(--background-color);
@@ -527,9 +527,9 @@ svg {
 
 .adr-item + .adr-item {
   margin-top: 9px;
-}
+} */
 
-.footer .social {
+/* .footer .social {
   margin-top: 12px;
   margin-left: 70px;
 }
@@ -553,9 +553,9 @@ svg {
 .footer .icon {
   fill: var(--background-color);
   background-color: rgba(255, 255, 255, 0.1);
-}
+} */
 
-.subscribe {
+/* .subscribe {
   position: relative;
   margin-top: 12px;
   margin-left: 93px;
@@ -581,7 +581,7 @@ svg {
 .subscribe-input {
   display: flex;
   margin-top: 20px;
-}
+} */
 
 .subscribe-btn {
   display: flex;
