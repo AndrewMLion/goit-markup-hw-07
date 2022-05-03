@@ -874,7 +874,7 @@ svg {
 /* PORTFOLIO */
 
 /* Filter */
-.list.btn {
+/* .list.btn {
   display: flex;
   justify-content: center;
 
@@ -916,7 +916,7 @@ svg {
 .filter .link.current {
   background-color: var(--accent-color);
   color: var(--background-color);
-}
+} */
 
 /* Project list  */
 .list.project {
