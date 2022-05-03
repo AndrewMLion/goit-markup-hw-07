@@ -787,7 +787,6 @@ svg {
 
 .form__icon-name {
   position: absolute;
-  display: inline-block;
   top: 50%;
   left: 12px;
   -webkit-transform: translateY(-50%);
