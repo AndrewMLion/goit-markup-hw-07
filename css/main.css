@@ -887,14 +887,14 @@ svg {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url(/images/check.svg);
+  background-image: url(../images/check.svg);
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
 
 .checkbox__input:checked + .checkbox__icon {
   background-color: #188ce8;
-  background-image: url(/images/check_aktiv.svg);
+  background-image: url(../images/check_aktiv.svg);
 }
 
 .checkbox__agreement {
