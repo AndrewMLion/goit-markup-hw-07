@@ -197,8 +197,8 @@ svg {
   margin-right: auto;
   background-size: auto auto;
   background-repeat: no-repeat;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/images/Img-bg.jpg");
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/Img-bg.jpg");
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../images/Img-bg.jpg");
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/Img-bg.jpg");
   padding-top: 200px;
   padding-bottom: 200px;
 }
@@ -671,6 +671,10 @@ svg {
   position: absolute;
   top: 50%;
   left: 50%;
+  height: 521px;
+  max-height: 100%;
+  width: 528px;
+  max-width: 100%;
   background-color: #ffffff;
   border-radius: 4px;
   -webkit-transform: translate(-50%, -50%) scale(1);
