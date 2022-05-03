@@ -37,14 +37,14 @@
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url(/images/check.svg);
+  background-image: url(../images/check.svg);
 
   transform: translateY(-50%);
 }
 
 .checkbox__input:checked + .checkbox__icon {
   background-color: getColor('secod-accent-color');
-  background-image: url(/images/check_aktiv.svg);
+  background-image: url(../images/check_aktiv.svg);
 }
 
 .checkbox__agreement {
