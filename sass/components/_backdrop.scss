@@ -8,5 +8,5 @@
 
   opacity: 1;
 
-  transition: opacity getTiming(--timing);
+  transition: opacity getTiming('timing');
 }
